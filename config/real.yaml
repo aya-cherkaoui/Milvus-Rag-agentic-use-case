@@ -1,0 +1,12 @@
+all_configs:
+- config:
+    WXDATA_CATALOG: agentic_rag
+    WXDATA_HOST: ibm-lh-lakehouse-presto-01-presto-svc-cpd.apps.678eb763f501a868a5829008.ocp.techzone.ibm.com
+    WXDATA_ICEBERG_CATALOG: think_about_it
+    WXDATA_LANDING_SCHEMA: metrics
+    WXDATA_PASSWORD: A2xNVm33nGnhjuTd13AaqSOdX6NmY8PV
+    WXDATA_PORT: 443
+    WXDATA_USER: admin
+    WXAI_PROJECT_ID: a71069b6-7658-4eda-be21-6c22f7e8fc29
+    WXAI_ACCESS_KEY: wv4PNVaimuKg7Kb5oLCRzKpcFqbwtUEHr6PPP4-t-zza
+    WXAI_INFER_ENDPOINT: https://us-south.ml.cloud.ibm.com
