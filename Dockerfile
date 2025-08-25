@@ -1,6 +1,6 @@
 FROM ubuntu:22.04
 
-LABEL author="Tarek ATBI" \
+LABEL author="Aya Cherkaoui" \
       name="Dockerfile for rest backend containerization" \
       version="v1.0-BETA"
 
